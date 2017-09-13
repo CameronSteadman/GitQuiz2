@@ -41,6 +41,13 @@ public class GitQuiz2 {
         System.out.println("A terminal illness");
 
     }
+    public static void Steadman(){
+         System.out.println("Knock Knock\n");
+        System.out.println("Who's There?\n");
+        System.out.println("Broken Pencil\n");
+        System.out.println("Broken Pencil Who?\n");
+        System.out.println("Nevermind It's Pointless\n");
+    }
     /**
      * @param args the command line arguments
      */
@@ -55,6 +62,7 @@ public class GitQuiz2 {
 
         Mach();
         Dombroski();
+        Steadman();
 
 
     }
